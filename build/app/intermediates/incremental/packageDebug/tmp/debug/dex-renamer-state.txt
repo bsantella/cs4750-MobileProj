@@ -1,4 +1,4 @@
-#Sun Jan 15 18:45:05 PST 2023
+#Tue Jan 17 17:32:13 PST 2023
 base.0=/Users/bry/myBMIcalc_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
